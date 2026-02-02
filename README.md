@@ -133,7 +133,7 @@ Sanjivani K.B.P Polytechnic, Kopargaon
 
 <p align="center">
   <a href="https://github.com/sumitshinde2006"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sumit-shinde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/sumit-shinde](https://www.linkedin.com/in/sumit-shinde-6008b7313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
