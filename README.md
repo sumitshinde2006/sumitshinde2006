@@ -25,7 +25,7 @@
 **Bachelor of Technology – Artificial Intelligence & Data Science**  
 Sanjivani University, Kopargaon  
 📅 Aug 2024 – May 2027  
-📊 CGPA: **8.42 / 10**
+📊 CGPA: **8.5 / 10**
 
 **Diploma in Computer Technology**  
 Sanjivani K.B.P Polytechnic, Kopargaon  
